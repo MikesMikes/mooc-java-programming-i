@@ -1,0 +1,10 @@
+Sausage soup
+20
+sausage
+potato
+water
+
+Meatballs
+10
+ground
+meat
